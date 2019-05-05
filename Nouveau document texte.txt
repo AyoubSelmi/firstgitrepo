@@ -1,0 +1,4 @@
+- video sur git
+- cv -- stage d'été
+-TP interfaçage
+-Projet interfaçage
