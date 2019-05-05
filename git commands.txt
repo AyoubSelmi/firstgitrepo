@@ -8,4 +8,4 @@ git commit
 git commit -m 'changed filename'
 git commit -m 'another change'
 git branch new_branch_name
-git checkout new_branch_name
+git checkout new_branch_name // switch branches
