@@ -1,0 +1,11 @@
+git init
+git config --global user.name 'username'
+git config --global email.email 'email@mail.com'
+git status
+git add .
+git add *.html
+git commit
+git commit -m 'changed filename'
+git commit -m 'another change'
+git branch new_branch_name
+git checkout new_branch_name
